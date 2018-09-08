@@ -11,7 +11,7 @@
 ### Running
 
 This game should automatically load upon clicking [this link](
-https://htmlpreview.github.io/?https://github.com/RobGoelz/GWG-challenge/blob/master/frontend-nanodegree-arcade-game/index.html)!
+https://htmlpreview.github.io/?https://github.com/RobGoelz/frontend-nanodegree-arcade-game/blob/master/index.html)!
 
 ### Playing
 
