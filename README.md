@@ -1,6 +1,54 @@
-frontend-nanodegree-arcade-game
+# FEND Arcade Game (Frogger Clone)
 ===============================
+## Table of Contents
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+* [Run The Game!](#running)
+* [Play The Game!](#playing)
+* [Contribute!](#contributing)
+* [Attributions!](#attributions)
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+
+### Running
+
+This game should automatically load upon clicking [this link](
+https://htmlpreview.github.io/?https://github.com/RobGoelz/GWG-challenge/blob/master/frontend-nanodegree-arcade-game/index.html)!
+
+### Playing
+
+At the beginning of the game, the player will start at the bottom of the screen:
+
+![Game Start](https://github.com/RobGoelz/GWG-challenge/blob/master/frontend-nanodegree-arcade-game/images/gameStart.png)
+
+The objective of this game is to make it to the water on the other side of the screen:
+![Game End](https://github.com/RobGoelz/GWG-challenge/blob/master/frontend-nanodegree-arcade-game/images/gameEnd.png)
+
+In order to move the character, you must us the arrow keys on your keyboard:
+- **up**
+- **left**
+- **right**
+- **down**
+
+*NOTE: **NO OTHER KEYS WILL WORK TO PLAY THIS GAME. Sorry!**
+
+If you collide with an enemy bug, the game will stop and prompt you to play again:
+
+![Collision](https://github.com/RobGoelz/GWG-challenge/blob/master/frontend-nanodegree-arcade-game/images/collision.png)
+
+If you win, the game will stop and you'll receive another prompt to play again!
+![Game Win](https://github.com/RobGoelz/GWG-challenge/blob/master/frontend-nanodegree-arcade-game/images/gameWin.png)
+
+## Contributing
+
+This repository is a fork of the the starter code for _all_ Udacity students, but the JS code in the app.js has been
+modified by me and I welcome constructive criticism or help to make this program better!
+
+For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Attributions
+* [Adding images to GitHub](https://www.jefclaes.be/2012/04/add-images-to-github-readme.html)
+
+* [Matthew Cranford's Walkthrough](https://matthewcranford.com/arcade-game-walkthrough-part-1-starter-code-breakdown/)
+
+* [Udacity Forum Post on Getting Started](https://discussions.udacity.com/t/i-dont-understand-how-to-code-classic-arcade-game/527836/2)
+
+* [Udacity Classes and Objects Lesson](https://goo.gl/2hfwqz)
